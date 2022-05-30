@@ -1,0 +1,701 @@
+Accept 验收
+
+Acceptance Standard 验收标准
+
+Action 处理
+
+Activity 活动
+
+Activity Description 活动描述
+
+Activity Definition 活动定义
+
+Activity List 活动清单
+
+Analogous Estimating 类比估算
+
+AOA， Active On the Arrow 双代号网络图法
+
+Approve 批准
+
+Operations 运作
+
+Process 过程
+
+Phases 阶段
+
+Product Life Cycle 产品生命周期
+
+PMO， Project Management Office 项目管理办公室
+
+Project Charter 项目章程
+
+Project Manager 项目经理
+
+Project Sponsor 项目发起人
+
+Project Stakeholder 项目干系人
+
+Project Management Plan 项目管理计划
+
+Project Team 项目团队
+
+Functional Organization 职能组织
+
+Matrix Organization 矩阵型组织
+
+Project Organization 项目型组织
+
+PMIS， Project Management Information System 项目管理信息系统
+
+Project Management Process Group 项目管理过程组
+
+Initiating Process 启动过程组
+
+Planning Process 计划过程组
+
+Executing Process 执行过程组
+
+Controlling Process 控制过程组
+
+Closing Process 收尾过程组
+
+Plan 计划
+
+Rolling Wave Plan 滚动式计划
+
+Do 行动
+
+Check 检查
+
+Walkthrough 走查
+
+Inspection 审查
+
+Review 评审
+
+Demonstration 论证
+
+Roundrobin Review 轮查
+
+Defect 缺陷
+
+Brainstorming 头脑风暴
+
+CMM， Capability Maturity Model 能力成熟度模型
+
+CMMI ，Capability Maturity Model Integration 能力成熟度模型集成
+
+Input 输入
+
+Output 输出
+
+Tool 工具
+
+Method 方法
+
+Technology 技术
+
+Enterprise Environmental Factors 事业环境因素
+
+Organizational Process Assets 组织过程资产
+
+SOW ，Statement Of Work 工作说明书
+
+CR ，Change Request 变更请求
+
+CCB， Change Control Board 变更控制委员会
+
+WBS， Work Breakdown Structure 工作分解结构
+
+Delphi 德尔菲法
+
+CPM， Critical Path Method 关键路径法
+
+Gantt Chart 甘特图
+
+Bar Chart 横道图
+
+PERT ，Program Evaluation and Review Technique 计划评审技术
+
+Graphical Evaluation and Review Technique 图形评审技术
+
+Expert Judgment 专家判断
+
+Monte Carlo Analysis 蒙特卡洛分析
+
+Sensitivity Analysis 灵敏度分析
+
+Threepoint Estimate 三点估算
+
+Pareto Chart 帕累托图
+
+Reserve Analysis 预留分析
+
+ADM， Arrow Diagram Method 箭线图法
+
+PDM， Precedence Diagram Method 前导图法
+
+BottomUpEstimating 自下向上法
+
+Decision Tree Analysis 决策树分析
+
+Critical Design Review 关键设计评审
+
+Workaround 权变措施
+
+SCurve S区县
+
+Schedule 进度
+
+Schedule Analysis 进度计划分析
+
+Schedule Compression 进度计划压缩
+
+Schedule Control 进度计划控制
+
+Dummy Activity 虚活动
+
+Optimistic time 乐观时间
+
+Most likely time 最可能时间
+
+Pessimistic time 悲观时间
+
+ES， Earliest Start Time 最早开始时间
+
+EF， Earliest Finish Time 最早完成时间
+
+LS， Latest Start Time 最迟开始时间
+
+LF， Latest Finish Time 最迟完成时间
+
+TF， Total Float 总时差
+
+FF， Free Float 自由时差
+
+Crashing 压缩、赶工
+
+Concurrent Engineering 并行工程
+
+Resource Calendar 资源日历
+
+Resource Leveling 资源平衡
+
+Resource Planning 资源规划
+
+Fast Tracking 快速跟进
+
+Product Scope 产品范围
+
+Project Scope 项目范围
+
+Scope Change 范围变更
+
+Scope Creep 范围蔓延
+
+Scope Definition 范围定义
+
+Scope Verification 范围验证
+
+Work Package 工作包
+
+Cost 成本
+
+ABC， Activity Based Costing 基于活动的成本核算
+
+EVM， Earned Value Management 挣值管理
+
+PV ，Plan Value 计划工作量的预算费用
+
+AC， Actual Cost 已完成工作量的实际费用
+
+EV， Earned Value 已完成工作量的预算成本
+
+SV， Schedule Variance 进度偏差
+
+CV， Cost Variance 成本偏差
+
+CPI， Cost Performed Index 成本绩效指数
+
+SPI ，Schedul Performed Index 进度绩效指数
+
+EAC， Estimate At Completion 完成时估算
+
+BAC， Budget At Completion 计划总额
+
+ETC， Estimate To Complete 完成尚需成本估算
+
+Cost Estimating 成本估算
+
+Cost Management Plan 成本管理计划
+
+Cost Baseline 成本基准
+
+Cost Budget 成本预算
+
+Cost Variance 成本偏差
+
+Cost of Quality 质量成本
+
+Quality 质量
+
+TQM ，Total Quality Management 全面质量管理
+
+QA， Quality Assurance 质量保证
+
+QC， Quality Control 质量控制
+
+Acceptable Quality Level 可接受质量水平
+
+Deliverable 可交付物
+
+Benchmarking Analysis 基准比较分析法
+
+OBS， Organizational Breakdown Structure 组织分解结构
+
+RBS， Resource Breakdown Structure 资源分解结构
+
+RAM， Responsibility Assignment Matrix 责任分配矩阵
+
+Virtual Team 虚拟团队
+
+Team Development 团队建设
+
+Team members 团队成员
+
+Communicate 沟通
+
+Communication Channel 沟通渠道
+
+Communication Plan 沟通计划
+
+Information Distribution 信息分发
+
+Performance Report 绩效报告
+
+Problem Solving 问题解决
+
+Compromise 妥协
+
+Smooth 圆滑
+
+Force 强迫
+
+Withdrawal 撤退
+
+Risk 风险
+
+Risk Distinguish 风险识别
+
+Risk Analysis 风险分析
+
+Quantitative Risk Analysis 定量风险分析
+
+Qualitative Risk Analysis 定性风险分析
+
+Risk Response 风险应对
+
+Risk Acceptance 风险接受
+
+Risk Aversion 风险规避
+
+Risk Mitigation 风险缓解
+
+Residual Transference 风险转移
+
+Residual Risk 残余风险
+
+CM， Configuration Management 配置管理
+
+CCB， Configuration Management Board 配置管理委员会
+
+CMO， Configuration Management Officer 配置管理员
+
+CI， Configuration Items 配置项
+
+Version 版本
+
+Document 文档
+
+System Documentation 系统文档
+
+User Documentation 用户文档
+
+Product Documentation 产品文档
+
+Configuration Library 配置库
+
+Development Library 开发库
+
+Controlled Library 受控库
+
+Product Library 产品库
+
+Base line 基线
+
+Milestone 里程碑
+
+Check point 检查点
+
+Configuration Status Report 配置状态报告
+
+Outsourcing 外包
+
+APR， Acquisition Plan Review 采购计划评审
+
+Strategy 战略
+
+SWOT， Strengths（优势）、Weaknesses（劣势）、Opportunities（机遇）、Threats（挑战）
+
+Supervisor 监理
+
+Checklist 检查表
+
+RFP， Request for Proposal 请求建议书
+
+RFQ， Request for Quotation 请求报价单
+
+Contract 合同
+
+Contract Administration 合同管理
+
+Contract Closeout 合同收尾
+
+Contract Target Cost 合同目标成本
+
+CPFF， Cost Plus Fixed Fee 成本固定费用合同
+
+CPIF， Cost Plus Incentive Fee 成本加奖励费用合同
+
+FFP， Firm Fixed Price 固定总价合同
+
+Discounted Cash Flow 折现现金流
+
+Claim 索赔
+
+G2E ，Government to Employee 政府对公务员
+
+G2B， Government to Business 政府对企业
+
+G2G， Government to Government 政府部门之间
+
+G2C， Government to Citizen 政务对公众
+
+BI， Business Intelligence 商业智能
+
+EC， Electronic commerce 电子商务
+
+B2B， Business To Business 企业对企业
+
+B2C， Business To Customer 企业对消费者
+
+C2C， Customer To Customer 消费者对消费者
+
+ISO， International Organization for Standardization 国际标准化组织
+
+IEC， International Electro technical Commission 国际电工委员会
+
+ITU， International Telecommunications Union 国际电信联盟
+
+IEEE， Institute of Electrical and Electronics Engineers 电气电子工程师协会
+
+ANSI， American National Standards Institute 美国国家标准协会
+
+GIS， Geographic Information System 地理信息系统
+
+Big Data 大数据
+
+Cloud Computing 云计算
+
+Grid Computing 网格计算
+
+Distributed Computing 分布式计算
+
+IOT ，Internet of Things 物联网
+
+RAID 独立冗余磁盘阵列
+
+RFID 射频识别
+
+Information Security 信息安全
+
+DES 数据加密标准
+
+IDEA 国际加密数据算法
+
+RSA 非对称加密算法
+
+IS ，Information System 信息系统
+
+MIS， Management Information System 管理信息系统
+
+TPS， Transaction process System 事务处理系统
+
+DSS， Decision Support System 决策支持系统
+
+ERP， Enterprise Resource Planning 企业资源计划
+
+MRP， Material Requirement Planning 物料需求计划
+
+MRPII， Manufacturing Resource Planning 制造资源计划
+
+BSP ，Business System Planning 企业系统规划
+
+CAD ，ComputerˉAided Design 计算机辅助设计
+
+OCR， Optical Character Recognition 光学字符识别
+
+SA， Structured Analisys 结构化分析方法
+
+OOA， ObjectOriented Analysis 面向对象分析方法
+
+OOD， ObjectOriented Design 面向对象设计
+
+OOP， Object Oriented Programming 面向对象编程
+
+DFD， Data Flow Diagram 数据流图
+
+DD， Data Dictionary 数据字典
+
+ER， Entity Relationship Diagram ER 图
+
+OLAP， OnLine Analytical Processing 在线联机分析处理
+
+OLTP， OnLine Transaction Processing 联机事务处理系统
+
+EDI，Electronic Data Interchange 电子数据交换
+
+CRM，Customer Relationship Management 客户关系管理
+
+SCM， Supply Chain Management 供应链管理
+
+Data Mining 数据挖掘
+
+Data Warehouse 数据仓库
+
+Database 数据库
+
+Data Mart 数据集市
+
+ITIL， Information Technology Infrastructure Library 信息技术基础架构库
+
+ITSM， IT Service Management IT服务管理
+
+Message 消息
+
+Communication 消息通信
+
+UML， Unified Modeling Language 统一建模语言
+
+Use case diagram 用例图
+
+Class diagram 类图
+
+Object diagram 对象图
+
+Component diagram 构件图
+
+Deployment diagram 部署图
+
+State diagram 状态图
+
+Sequence diagram 序列图
+
+Collaboration diagram 协作图
+
+Activity diagram 活动图
+
+C/S， Client/Server 客户端/服务器
+
+B/S， Browser/Server 浏览器/服务器
+
+SOA ，Service Oriented Architecture 面向服务的体系结构
+
+Middleware 中间件
+
+RPC， Remote Procedure Call 远程过程调用
+
+Web Services Web服务
+
+SOAP， Simple Object Access Protocol 简单对象访问协议
+
+WSDL， Web Services Description Language Web服务描述语言
+
+UDDI， Universal Description, Discovery and Integration 通用描述、发现与集成服务
+
+XML， Extensible Markup Language 可扩展标记语音
+
+HTML， Hypertext Markup Language 超文本标记语言
+
+Component 构件
+
+Containe 容器
+
+WorkFlow 工作流
+
+WFMS ，Workflow Management System 工作流管理系统
+
+CORBA， Common Object Request Broker Architecture 公共对象请求代理体系结构
+
+OMG， Object Management Group 对象管理组织
+
+DCOM， Distributed Component Object Model 分布式构件对象模型
+
+API ，Application Programming Interface 应用程序编程接口
+
+Graphical User Interface 图形用户界面
+
+Logic View 逻辑视图
+
+Development View 开发视图
+
+Module View 模块视图
+
+Process View 进程视图
+
+Physical View 物理视图
+
+Scenarios 场景
+
+Attribute 属性
+
+Object 对象
+
+Class 类
+
+Inheritance 继承
+
+Dependency 依赖
+
+Generalization 泛化
+
+Aggregation 聚合
+
+Composite 组合
+
+Association 关联
+
+function 函数
+
+template 模板
+
+LAN， Local Area Network 局域网
+
+Ethernet 以太网
+
+Token King 令牌环网
+
+WAN， Wide Area Network 网域网
+
+Proxy 代理
+
+Server 服务器
+
+Workstation 工作站
+
+Bridge 网桥
+
+Router 路由器
+
+Gateway 网关
+
+Switch 交换机
+
+OSI， Open System Interconnect 开放式互联系统
+
+Physical Layer 物理层
+
+Datalink Layer 数据链路层
+
+Network Layer 网络层
+
+Transport Layer 传输层
+
+Session Layer 会话层
+
+Presentation Layer 表示层
+
+Application Layer 应用层
+
+Virus 病毒
+
+Firewall 防火墙
+
+Directory structure 目录结构
+
+TCP， Transmission Control Protocol 传输控制协议
+
+UDP， User Datagram Protocol 用户数据包协议
+
+ARP， Address Resolution Protocol 地址解析协议
+
+URL， Uniform Resource Locator 统一资源定位器
+
+FTP ，File Transfer Protocol 文件传输协议
+
+DHCP， Dynamic Host Configuration Protocol 动态主机设置协议
+
+PPTP ，Point to Point Tunneling Protocol 点对点协议
+
+ATM， Asynchronous Transfer Mode 异步传输模式
+
+DAS， DirectAttached Storage 直接连接存储
+
+NAS， Network Attached Storage 网络连接存储
+
+SAN， Storage Area Network 存储区域网络
+
+PDS， Premises Distribution System 综合布线系统
+
+Work Area Subsystem 工作区子系统
+
+Horizontal Backbone Subsystem 水平干线子系统
+
+Administrator Subsystem 设备间子系统
+
+Backbone Subsystem 垂直干线子系统
+
+Campus Backbone Subsystem 楼宇（建筑群）子系统
+
+Equipment Room Subsystem 设备间子系统
+
+SQA， Software Quality Assurance 软件质量保证
+
+Performance 性能
+
+Reliability 可靠性
+
+Availability 可用性
+
+Security 安全性
+
+Modifiability 可修改性
+
+Maintainability 可维护性
+
+Extendibility 可拓展性
+
+Reassemble 结构重组
+
+Portability 可移植性
+
+Functionality 功能性
+
+ADSL， Asymmetric Digital Subscriber Line 非对称数字用户线路
+
+HDSL， Highspeed Digital Subscriber Line 高速率数字用户线路
+
+IPSec， The Internet Protocol Security Internet 协议安全性
+
+PKI ，Public Key Infrastructure 公钥基础设施
+
+PMI， Privilege Management Infrastructure 授权管理基础设施
+
+CA， Certification Authorization 认证机关
+
+Confidentiality 机密性
+
+Integrity 完整性
+
+总结
